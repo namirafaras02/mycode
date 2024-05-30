@@ -1,2 +1,1 @@
-# mycode
-Tracking my code
+This repository is created during terraform training by alta3
